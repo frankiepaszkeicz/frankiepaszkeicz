@@ -13,7 +13,7 @@ title                    : "Francesca Paszkeicz / Research"
 title_separator          : "-"
 name                     : &name "Francesca Paszkeicz"
 description              : &description "Francesca's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://francesca.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://frankiepaszkeicz.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "frankiepaszkeicz/francesca.github.io"
@@ -30,7 +30,7 @@ author:
   location         : "Austin, TX"
   employer         : "University of Texas at Austin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "francesca@my.utexas.edu" 
 
   # Academic websites
   academia         : # URL
